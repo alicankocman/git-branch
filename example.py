@@ -1,0 +1,1 @@
+print("Bu Yeni Bir Özellik")
